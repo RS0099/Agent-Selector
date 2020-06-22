@@ -97,5 +97,5 @@ def solve_issues():
 
 generate_agents_list()
 solve_issues()
-# you can update if you want :)
+# you can update the agent list using the update_agent_list function if you want :)
 
